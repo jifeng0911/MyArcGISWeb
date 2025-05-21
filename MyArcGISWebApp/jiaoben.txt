@@ -1,0 +1,4 @@
+D:
+cd \arcgispro\bin\Python\Scripts
+.\proenv.bat
+cd D:\arcgispro\MyArcGISWebApp

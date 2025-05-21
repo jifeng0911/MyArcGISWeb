@@ -1,0 +1,29 @@
+# IDE specific files / JetBrains PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+pip-log.txt
+*.egg-info/
+build/
+dist/
+
+# Node.js / Vue.js (for your arcgis-vue-ui folder)
+node_modules/
+dist/  # Vue 项目的打包输出文件夹，如果你的不是 dist，请修改
+*.log
+npm-debug.log*
+yarn-error.log*
+yarn-debug.log*
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+MyArcGISWebApp/OutputData/
